@@ -21,7 +21,7 @@
 ------------------------------------------
 
 ### Users Data
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/User%20Details.jpg" width ="250px" height ="450px">
+<img src="https://github.com/The-Nakul/Basic_Banking_App/blob/master/ss/Profile%20Page.png" width ="250px" height ="450px">
 
 ------------------------------------------
 
@@ -41,7 +41,7 @@
 ------------------------------------------
 
 ### Updated Amount In Users List
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Updated%20Amount.jpg" width ="250px" height ="450px">
+<img src="https://github.com/The-Nakul/Basic_Banking_App/blob/master/ss/Userview.png" width ="250px" height ="450px">
 
 ------------------------------------------
 
@@ -52,4 +52,4 @@
 
 
 ### Project Explanation 
-Link https://www.youtube.com/watch?v=uBfr7uRkRb0
+Link https://youtu.be/5tPvYWGW5rY
